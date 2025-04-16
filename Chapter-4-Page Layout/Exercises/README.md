@@ -7,7 +7,11 @@ For each exercise you should create a new folder with the name of the exercise a
 
 ### Structuring a webpage :ballot_box_with_check:
 
-Using the website reference image below, code this website (focussing on proper structural markup). Your work doesn't need to be exact in attempting to recreate the padding, margins etc., but you do need to recreate the layout of the page exactly, using the structural elements you've been taught. You must include:
+n useful: `<header>` `<nav>` `<main>` `<section>` `<article>` `<div>` `<aside>` `<footer>`
+
+- Logo and Heading font: "Tahoma", 700 (Apple users, you may have a tad bit more work to do here)
+- Body font: "Arial", 400
+- Header: #17072bUsing the website reference image below, code this website (focussing on proper structural markup). Your work doesn't need to be exact in attempting to recreate the padding, margins etc., but you do need to recreate the layout of the page exactly, using the structural elements you've been taught. You must include:
 
 - Header;
 - Navigation menu;
@@ -16,11 +20,7 @@ Using the website reference image below, code this website (focussing on proper 
 - Footer;
 - index.html and style.css files.
 
-These tags might come in useful: `<header>` `<nav>` `<main>` `<section>` `<article>` `<div>` `<aside>` `<footer>`
-
-- Logo and Heading font: "Tahoma", 700 (Apple users, you may have a tad bit more work to do here)
-- Body font: "Arial", 400
-- Header: #17072b
+These tags might come i
 - Sidebar: #172d67
 - Footer: #8c15e9
 - Text: #000000 and #FFFFFF
